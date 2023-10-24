@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🤖👇💆‍♂️ About Me:
 Currently working on LiDAR data compression.
 ![ESRG](https://img.shields.io/badge/ESRG-49a0cf?style=for-the-badge)
 
