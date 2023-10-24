@@ -1,7 +1,7 @@
 # About Me👇:
-![ESRG](https://img.shields.io/badge/ESRG-49a0cf?style=flat)
-Currently working on LiDAR data compression.
 
+Currently working on LiDAR data compression.
+![ESRG](https://img.shields.io/badge/ESRG-49a0cf?style=flat)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabioolive) 
