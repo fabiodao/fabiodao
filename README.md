@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on LiDAR data compression
+Currently working on LiDAR data compression
 
 
 ## 🌐 Socials:
